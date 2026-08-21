@@ -1,0 +1,38 @@
+[
+    {
+        "key":  "Guid",
+        "type":  0
+    },
+    {
+        "key":  "DisplayName",
+        "type":  0
+    },
+    {
+        "key":  "Name",
+        "type":  0
+    },
+    {
+        "key":  "Alias",
+        "type":  0
+    },
+    {
+        "key":  "PrimarySmtpAddress",
+        "type":  0
+    },
+    {
+        "key":  "EmailAddresses",
+        "type":  0
+    },
+    {
+        "key":  "DistinguishedName",
+        "type":  0
+    },
+    {
+        "key":  "mailPrefix",
+        "type":  0
+    },
+    {
+        "key":  "mailDomain",
+        "type":  0
+    }
+]
